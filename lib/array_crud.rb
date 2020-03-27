@@ -39,7 +39,7 @@ end
 
 def retrieve_first_element_from_array(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array.index[0]
+  retrieve_first_element_from_array = array.index[0]
   
 end
 
