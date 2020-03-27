@@ -39,7 +39,7 @@ end
 
 def retrieve_first_element_from_array(array)
   pickle = ["wow", "I", "am", "really", "learning", "arrays!"]
-  return pickle.index[2]
+  pickle.index[2]
   
 end
 
